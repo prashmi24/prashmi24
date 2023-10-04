@@ -4,7 +4,7 @@
 
 🧪 I have a solid foundation in manual testing, having mastered various testing techniques such as functional, regression, and user acceptance testing. I am enthusiastic about applying this knowledge to ensure the seamless operation of software applications.
 
-🤖 Automation excites me! I have started my journey into test automation using popular tools like Selenium and JUnit.My goal is to create efficient and effective automated test scripts that enhance the testing process and help catch bugs early in the development cycle.
+🤖 Automation excites me! I have started my journey into test automation using popular tools like Selenium and TestNG. My goal is to create efficient and effective automated test scripts that enhance the testing process and help catch bugs early in the development cycle.
 
 📊 Attention to detail is my forte. I thrive on meticulously identifying and documenting defects, collaborating closely with developers to reproduce issues, and ensuring that every bug is thoroughly tracked until it's squashed.
 
