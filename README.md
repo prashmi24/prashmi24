@@ -15,7 +15,7 @@
 Let's Connect!
 I actively seek opportunities to contribute to dynamic and innovative software testing teams. 
 Whether you're a fellow developer, a seasoned QA professional, or a recruiter, I would love to connect with you! 
-Feel free to reach out to me via www.linkedin.com/in/patilrash to explore potential collaborations, share insights, or simply have a chat about all things testing.
+Feel free to reach out to me via www.linkedin.com/in/rashmipatil24 to explore potential collaborations, share insights, or simply have a chat about all things testing.
 
 Thank you for visiting my GitHub profile. Let's embark on this exciting testing journey together! 🚀
                             
