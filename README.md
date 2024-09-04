@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">The fun of creating new concepts is what keeps me motivated!</h3>
+<h3 align="center">Always learning, always coding 🧠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashmi24&label=Profile%20views&color=0e75b6&style=flat" alt="prashmi24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_rashmi_patil_" target="blank"><img src="https://img.shields.io/twitter/follow/_rashmi_patil_?logo=twitter&style=for-the-badge" alt="_rashmi_patil_" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://rashmi-patil.vercel.app/](https://rashmi-patil.vercel.app/)
 
@@ -14,10 +14,6 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack & Coffee🤷‍♀️**
 
 - 📫 How to reach me **rashmi.patil2406@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
