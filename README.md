@@ -1,28 +1,26 @@
-<h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">Always learning, always coding 🧠</h3>
+# Hi there, I'm Rashmi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashmi24&label=Profile%20views&color=0e75b6&style=flat" alt="prashmi24" /> </p>
+I am a **Web Developer** with a love for building functional, user-friendly web applications. My focus is on creating robust, scalable solutions using modern technologies. When I’m not coding, you can find me reading books, gardening, or writing blogs about tech.
 
-<p align="left"> <a href="https://twitter.com/_rashmi_patil_" target="blank"><img src="https://img.shields.io/twitter/follow/_rashmi_patil_?logo=twitter&style=for-the-badge" alt="_rashmi_patil_" /></a> </p>
+## 📚 Technical Blog
+I share my learnings and experiences in web development on my [Medium blog](https://medium.com/@rashmipatil24), where I cover topics ranging from full-stack development to productivity tips.
 
-- 🌱 I’m currently learning **Next.js**
+## 💻 Technologies I Work With
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Redux
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Mongoose
+- **Tools**: Git, GitHub, Postman, VS Code
 
-- 👨‍💻 All of my projects are available at [https://rashmi-patil.vercel.app/](https://rashmi-patil.vercel.app/)
+## 🌱 Currently Learning
+- **Next.js** for advanced server-side rendering and better performance in React apps.
+- **TypeScript** to add type safety to my projects and improve code reliability.
 
-- 📝 I regularly write articles on [https://medium.com/@rashmipatil24](https://medium.com/@rashmipatil24)
+## 📈 Goals
+- Grow my expertise in web development, especially in backend architecture and cloud solutions.
+- Share knowledge and build an active community around web development and programming.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack & Coffee🤷‍♀️**
-
-- 📫 How to reach me **rashmi.patil2406@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_rashmi_patil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rashmi_patil_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rashmipatil24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmipatil24" height="30" width="40" /></a>
-<a href="https://medium.com/@rashmipatil24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rashmipatil24" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 📫 How to Reach Me
+- **Email**: rashmi.patil2406@gmail.com
+- **LinkedIn**: [linkedin.com/in/rashmipatil24](https://linkedin.com/in/rashmipatil24)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashmi24&" alt="prashmi24" /></p>
