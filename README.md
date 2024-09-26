@@ -18,5 +18,3 @@ I share my learnings and experiences in web development on my [Medium](https://m
 ## ╰┈➤ How to Reach Me
 - **Email**: rashmi.patil2406@gmail.com
 - **LinkedIn**: [linkedin.com/in/rashmipatil24](https://linkedin.com/in/rashmipatil24)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashmi24&" alt="prashmi24" /></p>
